@@ -10,7 +10,7 @@ project-folder/
 │
 ├── index.html # Main HTML file
 ├── style.css # Styling for the entire website
-├── images/ # Folder for hero background image (header.jpg)
+├── images/ # Folder for hero background image (section.jpg)
 └── README.md # Project documentation
 
 ## 💡 Features
