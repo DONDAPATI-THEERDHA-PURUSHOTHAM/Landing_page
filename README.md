@@ -23,14 +23,6 @@ project-folder/
 ✅ Modern Aesthetic using Flexbox  
 ✅ Mobile-Friendly via Media Queries
 
-
-
-## 📷 Screenshot
-
-> ![Screenshot Placeholder](https://via.placeholder.com/800x400?text=Landing+Page+Screenshot)
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
@@ -50,7 +42,7 @@ project-folder/
 ## 📲 How to Run This Project
 
 1. **Clone the Repository**  
-   git clone https://github.com/your-username/landing-page-project.git
+   git clone https://github.com/DONDAPATI-THEERDHA-PURUSHOTHAM/Landing_page.git
 Open index.html in your browser
 Just double-click the file or use Live Server in VS Code.
 
